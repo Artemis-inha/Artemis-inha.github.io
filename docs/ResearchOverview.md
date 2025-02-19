@@ -2,8 +2,8 @@
 title: Research Overview
 nav_order: 2
 ---
-Overview
-{: .fs-6 }
+## Overview
+
 
 Modeling is the process of predicting future states based on current actions, and with a precise model, we can evaluate all possible actions and choose the optimal one. Throughout history, humanity has developed models to describe physical phenomena and used them as the foundation for controlling systems.
 
@@ -14,8 +14,8 @@ Modeling and control raise many fundamental research questions: What is the most
 Our vision is to develop learning-based policies that are practical and reliable in real-world environments. To achieve this, we focus on advancing modeling techniques, designing control policies with safety and stability guarantees, and improving generalizability so that diverse robots can perform a wide range of tasks.
 
 -------
-Modeling
-{: .fs-6 }
+## Modeling
+
 
 Modeling is a fundamental challenge across various domains, including sensors, robotics, multi-agent systems, and climate prediction. By designing accurate sensor models or learning to characterize unknown sensor noise, we can achieve high performance even with low-cost sensors, leading to significant cost savings.
 
@@ -26,8 +26,8 @@ For instance, the Koopman model reformulates nonlinear systems into a linear rep
 Many physical systems exhibit intrinsic symmetries, such as translation and rotation, while energy conservation laws-rooted in Noether’s theorem-are tied to continuous symmetries. By leveraging these properties, equivariant neural networks have demonstrated superior modeling performance. Our research focuses on integrating various forms of prior knowledge to improve the modeling of complex, nonlinear, and hybrid robotic systems, ultimately enhancing predictive accuracy and control effectiveness.
 
 --------
-Control
-{: .fs-6 }
+## Control
+
 
 Reinforcement learning (RL) learns control policies through experience, making it well-suited for highly nonlinear systems. However, a key limitation of standard RL is its reliance on online data collection, which can be expensive and time-consuming. Another major challenge is the difficulty of enforcing constraints, making it hard to guarantee stability and safety.
 
@@ -36,10 +36,9 @@ Control Barrier Functions (CBFs) extend the concept of stability by ensuring tha
 Guaranteeing safety under large environmental disturbances remains a challenge, particularly in unseen (out-of-distribution, OOD) scenarios. To address this, we also investigate methods for detecting and handling OOD data effectively. Enhancing overall stability not only expands the operational range of robots but also paves the way for broader applications in system automation.
 
 
-
 --------
-Generalizability
-{: .fs-6 }
+## Generalizability
+
 
 Learning-based modeling and control are valid only within the distribution of the acquired data, limiting their applicability to a single robot and a specific task. To ensure that a learned model remains effective across all possible scenarios, it is crucial to develop methods for acquiring data that comprehensively cover the entire operational range.
 
