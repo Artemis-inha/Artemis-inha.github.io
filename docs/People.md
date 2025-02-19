@@ -20,3 +20,6 @@ Postdoc. Naval Architecture and Marine Engineering, University of Michigan
 M.S.-Ph.D. Mechanical Engineering, KAIST
 
 B.S. Mechanical Engineering, KAIST
+
+
+[Scholar](https://scholar.google.com/citations?user=1lbPybMAAAAJ&hl=en)
