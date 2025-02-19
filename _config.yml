@@ -4,5 +4,16 @@ theme: just-the-docs
 
 url: https://Artemis-inha.github.io
 
+logo: "/assets/images/logo.jpg"
+nav_enabled: true
+search_enabled: false
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+      
 # aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
