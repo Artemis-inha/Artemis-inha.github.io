@@ -5,8 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-Artemis: ARTificial Embodiment of Motion Intelligence Systems
-{: .fs-9 }
+# Artemis: ARTificial Embodiment of Motion Intelligence Systems
 
 Prof. Junwoo Jang, Inha University
 
@@ -14,5 +13,5 @@ Our lab focuses on the efficient modeling and control of robots and intelligent 
  
 [use the template]
 
-----
+---
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
