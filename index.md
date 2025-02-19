@@ -13,7 +13,7 @@ Our lab focuses on the efficient modeling and control of robots and intelligent 
  
 [use the template]
 
-[\_variables.scss](https://github.com/just-the-docs/just-the-docs/tree/main/_sass/support/_variables.scss)
+[Youtube](https://www.youtube.com/channel/UCF_fnL_JG-Y0Xm9hdpdjSkQ)
 
 
 ---
