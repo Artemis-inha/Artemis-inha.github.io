@@ -2,7 +2,6 @@
 title: Research Overview
 nav_order: 2
 ---
-
 Modeling is the process of predicting future states based on current actions, and with a precise model, we can evaluate all possible actions and choose the optimal one. Throughout history, humanity has developed models to describe physical phenomena and used them as the foundation for controlling systems.
 
 The rise of neural network-based modeling-where nonlinear functions are represented by a combination of countless parameters rather than explicit analytical equations-has driven groundbreaking technological advancements. Robotics plays a crucial role in bridging high-performance AI with the physical world. However, unlike in simulation environments, real-world applications face inherent challenges in physical modeling. Our understanding of complex forces such as fluid dynamics and friction remains incomplete, making it difficult to develop robots that can swim like fish, fly like birds, or skate on ice with precision.
@@ -13,6 +12,7 @@ Our vision is to develop learning-based policies that are practical and reliable
 
 -------
 Modeling
+{: .fs-6 }
 
 Modeling is a fundamental challenge across various domains, including sensors, robotics, multi-agent systems, and climate prediction. By designing accurate sensor models or learning to characterize unknown sensor noise, we can achieve high performance even with low-cost sensors, leading to significant cost savings.
 
@@ -23,8 +23,8 @@ For instance, the Koopman model reformulates nonlinear systems into a linear rep
 Many physical systems exhibit intrinsic symmetries, such as translation and rotation, while energy conservation laws-rooted in Noether’s theorem-are tied to continuous symmetries. By leveraging these properties, equivariant neural networks have demonstrated superior modeling performance. Our research focuses on integrating various forms of prior knowledge to improve the modeling of complex, nonlinear, and hybrid robotic systems, ultimately enhancing predictive accuracy and control effectiveness.
 
 --------
-
 Control
+{: .fs-6 }
 
 Reinforcement learning (RL) learns control policies through experience, making it well-suited for highly nonlinear systems. However, a key limitation of standard RL is its reliance on online data collection, which can be expensive and time-consuming. Another major challenge is the difficulty of enforcing constraints, making it hard to guarantee stability and safety.
 
@@ -36,6 +36,8 @@ Guaranteeing safety under large environmental disturbances remains a challenge, 
 
 --------
 Generalizability
+{: .fs-6 }
+
 Learning-based modeling and control are valid only within the distribution of the acquired data, limiting their applicability to a single robot and a specific task. To ensure that a learned model remains effective across all possible scenarios, it is crucial to develop methods for acquiring data that comprehensively cover the entire operational range.
 
 A promising approach is the use of foundation models, which have recently gained attention in the robotics and AI communities. These models, trained on vast datasets, can generate reasonable solutions even for problems they have not been explicitly trained on. In robot control, researchers are exploring the use of foundation models trained on large-scale datasets of various mobile robots and manipulators to control previously unseen platforms.
