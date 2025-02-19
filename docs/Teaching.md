@@ -3,4 +3,7 @@ title: Teaching
 nav_order: 5
 ---
 
-sdfhsdfh
+Automatic Control
+
+
+Linear Algebra
