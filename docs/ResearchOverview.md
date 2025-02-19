@@ -2,6 +2,9 @@
 title: Research Overview
 nav_order: 2
 ---
+Overview
+{: .fs-6 }
+
 Modeling is the process of predicting future states based on current actions, and with a precise model, we can evaluate all possible actions and choose the optimal one. Throughout history, humanity has developed models to describe physical phenomena and used them as the foundation for controlling systems.
 
 The rise of neural network-based modeling-where nonlinear functions are represented by a combination of countless parameters rather than explicit analytical equations-has driven groundbreaking technological advancements. Robotics plays a crucial role in bridging high-performance AI with the physical world. However, unlike in simulation environments, real-world applications face inherent challenges in physical modeling. Our understanding of complex forces such as fluid dynamics and friction remains incomplete, making it difficult to develop robots that can swim like fish, fly like birds, or skate on ice with precision.
