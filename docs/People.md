@@ -20,4 +20,4 @@ M.S.-Ph.D. Mechanical Engineering, KAIST
 B.S. Mechanical Engineering, KAIST
 {: .lh-0 }
 
-[Scholar](https://scholar.google.com/citations?user=1lbPybMAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=1lbPybMAAAAJ&hl=en)
