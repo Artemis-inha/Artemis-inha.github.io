@@ -6,9 +6,7 @@ nav_order: 4
 ## Under Review
 
 
-Junwoo Jang, Maani Ghaffari, "Contrastive Learning in NMPC Behavior Cloning for Generalized Trajectory Tracking of Marine Vehicles"
-
-Tribhi Kathuria, Ke Liu, Junwoo Jang, X. Jessie Yang, Maani Ghaffari, "Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning"
+Junwoo Jang, Tribhi Kathuria, Maani Ghaffari, "Integrating Proxemics and Control Barrier Function for Social Robot Navigation"
 
 Jaeho Shin, Hyeonjae Gil, Junwoo Jang, Maani Ghaffari, Ayoung Kim, "Registration beyond Points: Affine Subspace Alignment via Geodesic Distance on Grassmann Manifold"
 
@@ -16,6 +14,9 @@ Jaeho Shin, Hyeonjae Gil, Junwoo Jang, Maani Ghaffari, Ayoung Kim, "Registration
 --------
 ## Journal
 
+Junwoo Jang, Maani Ghaffari, "Contrastive Learning in NMPC Behavior Cloning for Generalized Trajectory Tracking of Marine Vehicles", IEEE Journal of Oceanic Engineering, 2025.
+
+Tribhi Kathuria, Ke Liu, Junwoo Jang, X. Jessie Yang, Maani Ghaffari, "Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning", IEEE Robotics and Automation Letters, 2025.
 
 Haggi Do, Junwoo Jang, Jinwhan Kim, "Heterogeneous multi-robot system mission planning with cooperative replenishment through data-driven rendezvous point selection", Intelligent Service Robotics
 , 2024.
