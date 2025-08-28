@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Artemis Lab.: ARTificial Embodiment of Motion Intelligence Systems
+# Artemis Lab: ARTificial Embodiment of Motion Intelligence Systems
 
 Prof. Junwoo Jang, Inha University
 {: .fs-6}
