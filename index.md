@@ -16,7 +16,10 @@ Our lab focuses on the efficient **modeling and control of robots and intelligen
 ![car1]({{ '/assets/images/car1.gif' | relative_url }}){: width="360" }
 ![robot1]({{ '/assets/images/robot1.gif' | relative_url }}){: width="360" }
 ![robot3]({{ '/assets/images/robot3.gif' | relative_url }}){: width="360" }
-![robot5]({{ '/assets/images/robot5.gif' | relative_url }}){: width="360" }
 ![robot6]({{ '/assets/images/robot6.gif' | relative_url }}){: width="360" }
+![robot2]({{ '/assets/images/robot2.gif' | relative_url }}){: width="360" }
+![robot9]({{ '/assets/images/robot9.gif' | relative_url }}){: width="360" }
+![robot5]({{ '/assets/images/robot5.gif' | relative_url }}){: width="360" }
 ![robot8]({{ '/assets/images/robot8.gif' | relative_url }}){: width="360" }
 ![robot7]({{ '/assets/images/robot7.gif' | relative_url }}){: width="360" }
+![robot4]({{ '/assets/images/robot4.gif' | relative_url }}){: width="360" }
