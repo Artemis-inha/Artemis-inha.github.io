@@ -15,6 +15,7 @@ Smart Mobility Engineering, Inha University
 E-mail : junwoo@inha.ac.kr
 {: .lh-tight }
 #Tel : 82-32-720-9087
+{: .lh-0.7 }
 
 EDUCATION:
 {: .lh-0.7}
