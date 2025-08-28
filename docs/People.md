@@ -29,12 +29,12 @@ B.S. Mechanical Engineering, KAIST
 [Google Scholar](https://scholar.google.com/citations?user=1lbPybMAAAAJ&hl=en)
 
 ----
-
 ## Ph.D. students
 
-----
 
+----
 ## Master students
+
 
 ----
 
