@@ -29,11 +29,11 @@ B.S. Mechanical Engineering, KAIST
 
 ----
 
-# Ph.D. student
+## Ph.D. students
 
 ----
 
-# Master student
+## Master students
 
 ----
 
