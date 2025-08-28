@@ -2,7 +2,7 @@
 title: People
 nav_order: 3
 ---
-## Principle Investigator
+## Principal Investigator
 {: .mb-6}
 
 ![JJW]({{ '/assets/images/JJW.jpg' | relative_url }}){: width="350" }
