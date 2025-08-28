@@ -2,8 +2,10 @@
 title: People
 nav_order: 3
 ---
-Junwoo Jang, Assistant Professor
-{: .lh-tight 
+Junwoo Jang
+{: .lh-tight } {: .fs-4 }
+
+Assistant Professor
 Smart Mobility Engineering, Inha University
 {: .lh-tight }
 E-mail : junwoo@inha.ac.kr
