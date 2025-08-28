@@ -2,6 +2,8 @@
 title: Research
 nav_order: 2
 ---
+![robots]({{ '/assets/images/robots.jpg' | relative_url }}){: width="500" }
+
 ## Overview
 
 
