@@ -12,10 +12,12 @@ Assistant Professor
 {: .lh-0.7 }
 Smart Mobility Engineering, Inha University
 {: .lh-0.7 }
+{: .mb-lg-4 }
 E-mail : junwoo@inha.ac.kr
-{: .lh-tight }
+{: .lh-0.7 }
 #Tel : 82-32-720-9087
 {: .lh-0.7 }
+{: .mb-lg-4 }
 
 EDUCATION:
 {: .lh-0.7}
