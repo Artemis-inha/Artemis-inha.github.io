@@ -15,8 +15,14 @@ Smart Mobility Engineering, Inha University
 E-mail : junwoo@inha.ac.kr
 {: .lh-0.7 }
 #Tel : 82-32-720-9087
-{: .lh-0.7 .mb-4}
+{: .lh-0.7 .mb-5}
 
+
+
+
+
+
+     \\
 EDUCATION:
 {: .lh-0.7}
 Postdoc. Naval Architecture and Marine Engineering, University of Michigan
