@@ -4,6 +4,8 @@ nav_order: 3
 ---
 ### Junwoo Jang
 
+![JJW]({{ '/assets/images/JJW.jpg' | relative_url }}){: width="320" }
+
 Assistant Professor
 {: .lh-1 }
 Smart Mobility Engineering, Inha University
