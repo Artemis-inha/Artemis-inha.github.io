@@ -7,15 +7,15 @@ nav_order: 3
 ![JJW]({{ '/assets/images/JJW.jpg' | relative_url }}){: width="320" }
 
 Junwoo Jang
-{: .fs-6 .lh-0.7}
+{: .fs-6 .lh-tight}
 Assistant Professor
 {: .lh-0.7 }
 Smart Mobility Engineering, Inha University
 {: .lh-0.7 }
 E-mail : junwoo@inha.ac.kr
-{: .lh-0.7 }
+{: .lh-tight }
 #Tel : 82-32-720-9087
-{: .lh-default}
+{: .lh-tight}
 
 EDUCATION:
 {: .lh-0.7}
