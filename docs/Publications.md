@@ -5,11 +5,7 @@ nav_order: 4
 
 ## Under Review
 
-
 Junwoo Jang, Tribhi Kathuria, Maani Ghaffari, "Integrating Proxemics and Control Barrier Function for Social Robot Navigation"
-
-Jaeho Shin, Hyeonjae Gil, Junwoo Jang, Maani Ghaffari, Ayoung Kim, "Registration beyond Points: Affine Subspace Alignment via Geodesic Distance on Grassmann Manifold"
-
 
 --------
 ## Journal
@@ -37,6 +33,7 @@ Junwoo Jang and Jinwhan Kim, "Topographic SLAM Using a Single Terrain Altimeter 
 
 --------
 ## Conference/Workshop
+Jaeho Shin, Hyeonjae Gil, Junwoo Jang, Maani Ghaffari, Ayoung Kim, "Registration beyond Points: Affine Subspace Alignment via Geodesic Distance on Grassmann Manifold", International Conference on Computer Vision (ICCV), 2025
 
 Junwoo Jang, Maani Ghaffari,"Social Zone as a Barrier Function for Socially-Compliant Robot Navigation", 5th IFAC Workshop on Cyber-Physical \& Human Systems, 2024
 
