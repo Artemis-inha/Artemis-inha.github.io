@@ -19,9 +19,11 @@ E-mail : junwoo@inha.ac.kr
 {: .lh-0.7 .mb-5}
 
 EDUCATION:
-{: .lh-0.7}
-Postdoc. Naval Architecture and Marine Engineering, University of Michigan
-{: .lh-0.7 }
+{: .lh-0}
+Postdoc. 
+Naval Architecture and Marine Engineering,
+University of Michigan
+{: .lh-0}
 M.S.-Ph.D. Mechanical Engineering, KAIST
 {: .lh-0.7 }
 B.S. Mechanical Engineering, KAIST
