@@ -17,9 +17,9 @@ Tribhi Kathuria, Ke Liu, Junwoo Jang, X. Jessie Yang, Maani Ghaffari, "Learning 
 Haggi Do, Junwoo Jang, Jinwhan Kim, "Heterogeneous multi-robot system mission planning with cooperative replenishment through data-driven rendezvous point selection", Intelligent Service Robotics
 , 2024.
 
-Junwoo Jang, Haggi Do, Maani Ghaffari, Jinwhan Kim, "Efficient Data Collection for Neural Network-based Dynamic Modeling of an Under-actuated Floating Robot", Journal of Intelligent & Robotic Systems, 2024.
+Junwoo Jang, Haggi Do, Maani Ghaffari, Jinwhan Kim, "Efficient Data Collection Strategy for Modeling the Dynamics of Floating Robotic Vehicles Using Neural Networks", Journal of Intelligent & Robotic Systems, 2024.
 
-Junwoo Jang, Sangli Teng, Maani Ghaffari, "Geometric Trajectory Tracking using a Convex Error-State Model Predictive Control for Autonomous Marine Vehicles", IEEE Robotics and Automation Letters, 2023.
+Junwoo Jang, Sangli Teng, Maani Ghaffari, "Convex Geometric Trajectory Tracking Using Lie Algebraic MPC for Autonomous Marine Vehicles", IEEE Robotics and Automation Letters, 2023.
 
 Junwoo Jang, Changyu Lee, Jinwhan Kim, "A Learning-based Approach to Surface Vehicle Dynamics Modeling for Robust Multistep Prediction", Autonomous Robots, 2023.
 
