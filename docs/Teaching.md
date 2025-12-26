@@ -4,11 +4,11 @@ nav_order: 5
 ---
 ### 2025 Fall
 
-Mobility Dynamics
+Mobility Dynamics  [Youtube](https://www.youtube.com/watch?v=QlKufwneT8A&list=PLqCrLscdNVX9EIY7OPzSqnL1xjLEsmgzt)
 
-Machine learning 
-
-Learning-based control
+Machine learning  [Materials](https://github.com/Artemis-inha/Machine-Learning) [Youtube](https://www.youtube.com/watch?v=6aBq52huUBI&list=PLqCrLscdNVX_tb3q1-BNTeIH20CoQTDai)
+ 
+Learning-based control [Materials](https://github.com/Artemis-inha/Learning-based-Control) [Youtube](https://www.youtube.com/watch?v=SiNYLNaG4xo&list=PLqCrLscdNVX8Cdn_kzLlMtifvXrN_9iJy)
 
 
 --------
