@@ -1,6 +1,6 @@
 ---
 title: Join Us
-nav_order: 6
+nav_order: 7
 ---
 
 We are looking for qualified and highly motivated students and postdocs with various engineering and science backgrounds (e.g., smart mobility engineering, robotics, mechanical & aerospace engineering, electrical engineering, computer science, etc.). 
