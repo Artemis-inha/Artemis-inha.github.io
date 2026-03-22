@@ -1,4 +1,3 @@
-
 ---
 title: Funded Project
 nav_order: 4
