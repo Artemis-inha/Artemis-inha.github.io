@@ -1,58 +1,33 @@
----
-title: People
-nav_order: 3
----
-## Principal Investigator
-{: .mb-6}
-
-![JJW]({{ '/assets/images/JJW.jpg' | relative_url }}){: width="350" }
-
-Junwoo Jang
-{: .fs-6 .lh-tight}
-Assistant Professor
-{: .lh-0.7 }
-Smart Mobility Engineering, Inha University
-{: .lh-0.7 .mb-6}
-E-mail : junwoo@inha.ac.kr
-{: .lh-0.7 }
-#Tel : +82-32-720-9087
-{: .lh-0.7 .mb-5}
-
-EDUCATION:
-{: .lh-0}
-Postdoc. 
-Naval Architecture and Marine Engineering,
-University of Michigan
-{: .lh-0}
-M.S.-Ph.D. Mechanical Engineering, KAIST
-{: .lh-0.7 }
-B.S. Mechanical Engineering, KAIST
-{: .lh-0.7 }
-[Google Scholar](https://scholar.google.com/citations?user=1lbPybMAAAAJ&hl=en)
-
-----
-## Ph.D. students
-
-
-----
-## Master students
-
-
-----
-
-
 
 ---
 title: Funded Project
 nav_order: 4
 ---
 
-Ongoing funded project
+# Ongoing Funded Project
 
-1) AI-based Underwater Cultural Heritage Exploration via Multi ASV Cooperation
+## Underwater Cultural Heritage Exploration
+{: .no_toc }
 
-This project develops an integrated exploration framework for underwater cultural heritage using AI-based target detection, multi-sensor data processing, and cooperative autonomous navigation of multiple unmanned surface vehicles. The goal is to transform underwater heritage discovery from chance-based investigation into a systematic, technology-driven process, while also establishing technical and data standards for scalable national-level deployment.
+**Funding:** National Heritage Administration  
+**Consortium:** Inha University, KAIST, Korea Aerospace University, and Keimyung University
+{: .fs-4 .mb-3 }
 
-2) State Estimation and Filtering for Intelligent Dynamic Positioning Control in Marine Systems
+![Underwater Cultural Heritage Exploration]({{ '/assets/images/underwater_heritage.jpg' | relative_url }})
+{: .shadow .rounded-2 .mb-4 }
 
-This project focuses on advanced state estimation and filtering technologies for intelligent marine dynamic positioning control. The research aims to improve robustness, accuracy, and real-time reliability in marine operations by developing estimation frameworks that can effectively handle environmental disturbances, sensor uncertainty, and complex vessel dynamics.
+This project develops an AI-based exploration framework for underwater cultural heritage using multi-sensor data processing and cooperative autonomous navigation of multiple unmanned surface vehicles. While historical records suggest that many trading vessels were wrecked in Korean waters, only a few sites have been discovered, mostly through accidental findings during fishing activities. To move beyond such chance-based discovery, this project aims to enable systematic detection of shipwreck candidates from large-scale sonar data. The problem can be framed as identifying out-of-distribution targets from massive marine sensor observations, opening new research directions in anomaly detection, data-centric AI, and marine robotics. Related efforts such as [AI4Shipwrecks](https://umfieldrobotics.github.io/ai4shipwrecks/overview/) highlight the growing global interest in this area, while Korea still needs locally relevant datasets and AI methods tailored to domestic marine environments.
+{: .fs-5 }
+
+
+## State Estimation and Filtering for Marine Dynamic Positioning
+{: .no_toc }
+
+**Funding:** KRISO
+{: .fs-4 .mb-3 }
+
+![Marine Dynamic Positioning]({{ '/assets/images/marine_dp.jpg' | relative_url }})
+{: .shadow .rounded-2 .mb-4 }
+
+This project investigates advanced state estimation and filtering for intelligent dynamic positioning of marine platforms under environmental disturbances and sensor uncertainty. The research focuses on Lie group-based estimation and dynamic control for nonlinear marine systems, together with AI-based parameter tuning for adaptive filtering, to improve robustness, accuracy, and real-time reliability in offshore operations. Related work such as [DRIFT](https://github.com/UMich-CURLY/drift) reflects recent advances in this direction.
+{: .fs-5 }
