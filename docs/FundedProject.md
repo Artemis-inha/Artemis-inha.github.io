@@ -29,7 +29,7 @@ This project develops an AI-based exploration framework for underwater cultural 
 **Funding:** KRISO
 {: .fs-4 .mb-3 }
 
-![Marine Dynamic Positioning]({{ '/assets/images/marine_dp.jpg' | relative_url }})
+![Marine Dynamic Positioning]({{ '/assets/images/marine_dp.jpg' | relative_url }}){: width="550" }
 {: .shadow .rounded-2 .mb-4 }
 
 This project investigates advanced state estimation and filtering for intelligent dynamic positioning of marine platforms under environmental disturbances and sensor uncertainty. The research focuses on Lie group-based estimation and dynamic control for nonlinear marine systems, together with AI-based parameter tuning for adaptive filtering, to improve robustness, accuracy, and real-time reliability in offshore operations. Related work such as [DRIFT](https://github.com/UMich-CURLY/drift) reflects recent advances in this direction.
