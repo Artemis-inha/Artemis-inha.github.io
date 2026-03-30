@@ -13,7 +13,7 @@ If you are interested in these projects, please feel free to contact our lab.
 {: .no_toc }
 
 **Funding:** National Heritage Administration  
-**Consortium:** Inha University, KAIST, Korea Aerospace University, and Keimyung University
+**Consortium:** Inha University, Korea Aerospace University, Keimyung University, and KAIST
 {: .fs-4 .mb-3 }
 
 ![Underwater Cultural Heritage Exploration]({{ '/assets/images/underwater_heritage.jpg' | relative_url }})
