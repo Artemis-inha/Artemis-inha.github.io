@@ -3,9 +3,9 @@ title: Join Us
 nav_order: 7
 ---
 
-We are looking for qualified and highly motivated students and postdocs with various engineering and science backgrounds (e.g., smart mobility engineering, robotics, mechanical & aerospace engineering, electrical engineering, computer science, etc.). 
+We are looking for qualified and highly motivated students and postdocs with various engineering and science backgrounds (e.g., smart mobility engineering, robotics, mechanical & aerospace engineering, electrical engineering, computer science, AI etc.). 
 
-If you are interested in joining our research group, we highly recommend taking the "Learning-Based Control (ECE-7121)" course. If you are not a senior, you can audit the course or apply for an undergraduate research program.
+If you are interested in joining our research group, we highly recommend that you check our YouTube channel and watch our lab introduction. The Learning-Based Control lecture is the most relevant to our research direction.
 
 Other than that, we encourage you to take as many mathematics courses as possible, such as linear algebra, probabilistics, differential equations, linear programming, mathematics for AI. Additionally, it is important to improve your programming skills, particularly in languages like C and Python, though this does not necessarily need to be through machine or deep learning platforms. 
 
