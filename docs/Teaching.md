@@ -8,7 +8,7 @@ Mobility Dynamics  [Youtube](https://www.youtube.com/watch?v=QlKufwneT8A&list=PL
 
 Machine learning  [Materials](https://github.com/Artemis-inha/Machine-Learning) [Youtube](https://www.youtube.com/watch?v=6aBq52huUBI&list=PLqCrLscdNVX_tb3q1-BNTeIH20CoQTDai)
  
-Learning-based control [Materials](https://github.com/Artemis-inha/Learning-based-Control) [Youtube](https://www.youtube.com/watch?v=SiNYLNaG4xo&list=PLqCrLscdNVX8Cdn_kzLlMtifvXrN_9iJy)
+Learning-based control [Materials](https://github.com/Artemis-inha/Learning-based-Control) [Youtube](https://www.youtube.com/watch?v=D6Nn7xszAx8&list=PLqCrLscdNVX9lmstqRoI6nd22Stwflmtx)
 
 
 --------
